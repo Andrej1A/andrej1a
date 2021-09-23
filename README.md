@@ -1,4 +1,8 @@
-## Developer Portfolio Landing Page Template
+## Andrej Albrecht
+
+Mobile App Developer since 2012
+
+Data Scientist and Machine Learning enthusiast since 2020
 
 
 <!--

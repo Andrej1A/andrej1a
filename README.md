@@ -1,6 +1,6 @@
 ## Andrej Albrecht
 
-Mobile App Developer since 2012
+Mobile App Developer (Android) since 2012 + experience with iOS app development in more then 5 projects
 
 Data Scientist and Machine Learning enthusiast since 2020
 

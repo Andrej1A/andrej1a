@@ -1,6 +1,8 @@
 ## Andrej Albrecht
 
-Mobile App Developer (Android) since 2012 + experience with iOS app development in more then 5 projects
+Solution-Finder
+
+Mobile App Developer (Android) since 2012 + experience with iOS app development
 
 Data Scientist and Machine Learning enthusiast since 2020
 
